@@ -1,9 +1,8 @@
-## Hi there 👋
-
-<!--[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,vite,gcp,azure&perline=4)](https://skillicons.dev) -->
+# I'm Koka  
+<!--##  I'm a full-stack Java developer with passion and compassion. I like creating things and untangling knots, figuratively speaking -->
 
 Some of me on the web ___
-<div align="center">
+<div align="start">
 <a href="https://www.linkedin.com/in/kokakarova/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -13,7 +12,7 @@ Some of me on the web ___
 </div>
 
 Skills ___
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,idea,maven,spring,js,ts,html,css,react,nextjs,vite,redux,tailwind,vscode,firebase,postgres,gcp,azure,git,docker&perline=7" />
   </a>
